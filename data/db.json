@@ -1,0 +1,112 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video",
+      "description": "Learn advanced React best practices, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App on YouTube - Cryptoverse.",
+      "thumbnailLink": "https://i.ibb.co/swF7hgS/thumbnail-1.png",
+      "videoLink": "https://www.youtube.com/watch?v=9DDX3US3kss",
+      "stats": {
+        "viewsCount": "494K",
+        "likesCount": "17K",
+        "releaseDate": "5/10/2023"
+      },
+      "channelInfo": {
+        "channelName": "JavaScript Mastery",
+        "isVerified": true,
+        "channelLogoLink": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s48-c-k-c0x00ffffff-no-rj",
+        "subscribersCount": "712K"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Madison Beer - Glimpse Of Us (Joji cover) in the Live Lounge",
+      "description": "Madison Beer covers 'Glimpse Of Us' by Joji in the BBC Radio 1 Live Lounge",
+      "thumbnailLink": "https://i.ibb.co/bdqb2Zs/thumbnail-2.png",
+      "videoLink": "https://www.youtube.com/watch?v=7jwun2u8a7U",
+      "stats": {
+        "viewsCount": "216K",
+        "likesCount": "11K",
+        "releaseDate": "5/10/2023"
+      },
+      "channelInfo": {
+        "channelName": "BBCRadio1VEVO",
+        "isVerified": true,
+        "channelLogoLink": "https://yt3.ggpht.com/-siTHoPYK4F2fGPDTrma6jRwW__1Il2INTAfsAOpnDJFdQsOWVItlICZIjZhf2Yf3j-dg2oM=s88-c-k-c0x00ffffff-no-rj",
+        "subscribersCount": "3.0M"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video",
+      "description": "Learn advanced React best practices, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App on YouTube - Cryptoverse.",
+      "thumbnailLink": "https://i.ibb.co/swF7hgS/thumbnail-1.png",
+      "videoLink": "https://www.youtube.com/watch?v=9DDX3US3kss",
+      "stats": {
+        "viewsCount": "494K",
+        "likesCount": "17K",
+        "releaseDate": "5/10/2023"
+      },
+      "channelInfo": {
+        "channelName": "JavaScript Mastery",
+        "isVerified": true,
+        "channelLogoLink": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s48-c-k-c0x00ffffff-no-rj",
+        "subscribersCount": "712K"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Madison Beer - Glimpse Of Us (Joji cover) in the Live Lounge",
+      "description": "Madison Beer covers 'Glimpse Of Us' by Joji in the BBC Radio 1 Live Lounge",
+      "thumbnailLink": "https://i.ibb.co/bdqb2Zs/thumbnail-2.png",
+      "videoLink": "https://www.youtube.com/watch?v=7jwun2u8a7U",
+      "stats": {
+        "viewsCount": "216K",
+        "likesCount": "11K",
+        "releaseDate": "5/10/2023"
+      },
+      "channelInfo": {
+        "channelName": "BBCRadio1VEVO",
+        "isVerified": true,
+        "channelLogoLink": "https://yt3.ggpht.com/-siTHoPYK4F2fGPDTrma6jRwW__1Il2INTAfsAOpnDJFdQsOWVItlICZIjZhf2Yf3j-dg2oM=s88-c-k-c0x00ffffff-no-rj",
+        "subscribersCount": "3.0M"
+      }
+    },
+    {
+      "id": 5,
+      "title": "These Two Games are 9 Years Apart",
+      "description": "Assassins Creed Mirage was released in October 2023 and Assassins Creed Unity was released in November 2014, in this Video I wanted to show you how well a 9 year Game holds up compared to the new AAA Games.",
+      "thumbnailLink": "/images/thumbnail-3.png",
+      "videoLink": "https://www.youtube.com/watch?v=FsmsHMWQi-M",
+      "stats": {
+        "viewsCount": "294K",
+        "likesCount": "9.7K",
+        "releaseDate": "7/10/2023"
+      },
+      "channelInfo": {
+        "channelName": "NikTek",
+        "isVerified": true,
+        "channelLogoLink": "https://yt3.ggpht.com/ytc/APkrFKbKXSsvMjiEC4uif2r2c2-qvJoJDlBhO_K50xBA9Q=s48-c-k-c0x00ffffff-no-rj",
+        "subscribersCount": "331K"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Math Magic",
+      "description": "I am bored!",
+      "thumbnailLink": "/images/thumbnail-4.png",
+      "videoLink": "https://www.youtube.com/watch?v=ObiqJzfyACM",
+      "stats": {
+        "viewsCount": "12.6M",
+        "likesCount": "398K",
+        "releaseDate": "5/2/2016"
+      },
+      "channelInfo": {
+        "channelName": "Vsauce",
+        "isVerified": true,
+        "channelLogoLink": "https://yt3.ggpht.com/ytc/APkrFKb9Hhf__FZHGQDdJjkescqN1BAL4SqMKfDGsLO8RA=s48-c-k-c0x00ffffff-no-rj",
+        "subscribersCount": "20.1M"
+      }
+    }
+  ]
+}
